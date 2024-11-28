@@ -1,0 +1,1 @@
+#### For numbers to be operated in binary. It is checked whether the numbers are less than or greater than 67. If the numbers are less than 67, the sum of their differences with 67 is calculated. If the numbers are greater than 67, the squares of the differences are added and printed on the screen.
